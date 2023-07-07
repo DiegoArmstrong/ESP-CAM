@@ -1,7 +1,7 @@
 # ESP-CAM
 
-#Project Overview
-This repository showcases the development of a live video streaming webserver using the ESP32-CAM module. The project demonstrates the successful implementation of a system that enables real-time video streaming from the ESP32-CAM to a web browser.
+# Project Overview
+This repository showcases the development of a live video streaming web server using the ESP32-CAM module. The project demonstrates the successful implementation of a system that enables real-time video streaming from the ESP32-CAM to a web browser.
 
 #Project Description
 The focus of this project was to leverage the capabilities of the ESP32-CAM module to create a web-based live video streaming application. By utilizing the ESP32-CAM's integrated camera module, I developed a system that captures video frames and streams them in real-time to a web browser.
